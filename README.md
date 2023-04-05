@@ -26,9 +26,8 @@ To launch the game, follow these steps:
     Install java script on your computer.
 
   Open a command prompt in the folder containing the project files.
-
   Launch the following command to start the server:
-
+  
     python3 -m http.server
 
   Open a web browser and type the following URL:
