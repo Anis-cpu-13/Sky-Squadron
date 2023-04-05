@@ -55,6 +55,6 @@ The project is divided into several classes, each managing a different part of t
   The "Projectile" class manages the projectiles launched by the player.
 There are also several functions used to manage enemy and player shots, as well as collision detection.
 
-Conclusion
+## Conclusion
 
 This project is a good introduction to creating video games using JavaScript and HTML5 Canvas. It provides an understanding of the fundamental principles of creating a Tower Defense game. Although the project is relatively simple, it offers a starting point for further exploration into creating video games using these technologies.
